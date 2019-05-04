@@ -7,12 +7,12 @@
 
 ### 주요 Topic
 
-Akka           - https://github.com/creaton60/study-any/wiki/Akka
-MQTT           - https://github.com/creaton60/study-any/wiki/MQTT
-Algorithm      - https://github.com/creaton60/study-any/wiki/Algorithm
-Data Structure - https://github.com/creaton60/study-any/wiki/Data-Structure
-Spring         - https://github.com/creaton60/study-any/wiki/Spring
-프로그래밍 페러다임 - https://bit.ly/2ZXS4Dx
-Network        - https://github.com/creaton60/study-any/wiki/Network
-MongoDB        - https://github.com/creaton60/study-any/wiki/MongoDB
-RDBMS          - https://github.com/creaton60/study-any/wiki/RDBMS
+* Akka           - https://github.com/creaton60/study-any/wiki/Akka
+* MQTT           - https://github.com/creaton60/study-any/wiki/MQTT
+* Algorithm      - https://github.com/creaton60/study-any/wiki/Algorithm
+* Data Structure - https://github.com/creaton60/study-any/wiki/Data-Structure
+* Spring         - https://github.com/creaton60/study-any/wiki/Spring
+* 프로그래밍 페러다임 - https://bit.ly/2ZXS4Dx
+* Network        - https://github.com/creaton60/study-any/wiki/Network
+* MongoDB        - https://github.com/creaton60/study-any/wiki/MongoDB
+* RDBMS          - https://github.com/creaton60/study-any/wiki/RDBMS
